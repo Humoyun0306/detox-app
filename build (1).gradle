@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DetoxGram</string>
+    <string name="accessibility_service_label">DetoxGram bloklagich</string>
+    <string name="accessibility_service_desc">Instagram foydalanish vaqtini kuzatadi va limitga yetganda bloklaydi</string>
+</resources>
